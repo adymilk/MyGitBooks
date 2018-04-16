@@ -1,4 +1,4 @@
-#《先知》—— 纪伯伦
+# 《先知》—— 纪伯伦
 
 ![纪伯伦](https://gss1.bdstatic.com/-vo3dSag_xI4khGkpoWK1HF6hhy/baike/c0%3Dbaike80%2C5%2C5%2C80%2C26/sign=08ad009c9925bc313f5009ca3fb6e6d4/8b82b9014a90f60356d549153912b31bb051ed7f.jpg)
 
