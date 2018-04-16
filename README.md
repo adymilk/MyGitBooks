@@ -4,5 +4,5 @@
 
  ## 已完成的书籍如下，可直接点击在线阅读
 
-- [x] [《先知》—— 纪伯伦](https://adymilk.github.io/MyGitBooks/%E5%85%88%E7%9F%A5/book/)
-- [x] [《李小龙传奇》—— 网络](https://adymilk.github.io/MyGitBooks/李小龙传奇/book/)
+- [x] [《先知》—— 纪伯伦](https://adymilk.github.io/MyGitBooks/先知/book/)
+- [x] [《李小龙传奇》—— 网络](https://adymilk.github.io/MyGitBooks/李小龙哲学笔记/book/)
