@@ -1,2 +1,0 @@
-# 船来了 THE COMING OF THE SHIP
-
